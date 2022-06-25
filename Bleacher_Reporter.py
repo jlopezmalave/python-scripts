@@ -1,3 +1,10 @@
+#====================================================================#
+# Extension Name: Bleacher_Reporter.py                               #
+# Description: Extension adds additional functionality to Burp Suite # 
+#              to create HTML and XML reports once scan is complete. #
+# Author: Jose Lopez                                                 #
+#====================================================================#
+
 #!/usr/bin/env python
 
 from burp import IBurpExtender
