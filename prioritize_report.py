@@ -1,9 +1,9 @@
 #=============================================================================#
-# Script Name: prioritize_report.py 										  #
+# Script Name: prioritize_report.py 					      #
 # Description: Script generates a vulnerability report from Tenable.io 	      #
 #              based on VPR score to prioritize remediation. Also shows first #
-#			   discovery date. 												  #
-# Author: Jose Lopez														  #
+#			   discovery date. 				      #
+# Author: Jose Lopez							      #
 #=============================================================================#
 
 import config, csv, json, requests
